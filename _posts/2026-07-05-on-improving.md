@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "On Imroving"
+title:  "On Improving"
 categories: improvement
 ---
 
-One becomes better at the things they invest time and effort. Imrovement is not expected in areas without sufficient practice. While you cannot guarantee the result, you can always ensure that you put in your best efforts. So that you won't be devastated by the "failure" and instead find fulfillment from the process itself.
+One becomes better at the things they invest time and effort. Improvement is not expected in areas without sufficient practice. While you cannot guarantee the result, you can always ensure that you put in your best efforts. So that you won't be devastated by the "failure" and instead find fulfillment from the process itself.
 
 In many cases, no one even knows what is right and wrong. Which means we live in a Wild West of different opinions. What Laptop should I buy? What book should I read? - One person might recommend A, the other might suggest B. - Now you have conflicting opinions, and it's up to you to decide what you should choose.
 
