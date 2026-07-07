@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Improving"
-categories: improvement
+categories: philosophy
 ---
 
 One becomes better at the things they invest time and effort. Improvement is not expected in areas without sufficient practice. While you cannot guarantee the result, you can always ensure that you put in your best efforts. So that you won't be devastated by the "failure" and instead find fulfillment from the process itself.
