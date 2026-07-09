@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Most valuable asset"
-categories: philosophy
+categories: [philosophy]
+author: "xeno"
 ---
 
 What makes a car good? Speed, reliability and comfortability. A book should be understable, not too small or not too large, have concise and clear ideas, and be well-written.

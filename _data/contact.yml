@@ -1,0 +1,17 @@
+- type: github
+  icon: 'fab fa-github'
+
+- type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://instagram.com/this.is.xeno'
+
+- type: twitter
+  icon: 'fab fa-x-twitter'
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/denisxenofontov0196043a1'
