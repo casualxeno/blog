@@ -36,7 +36,10 @@ actions:
     static_url: false
 
 comments:
-  utterances: casualxeno/blog
+  provider: utterances
+  utterances:
+    repo: casualxeno/blog
+    issue_term: 'pathname'
 
 pwa:
   enabled: true
