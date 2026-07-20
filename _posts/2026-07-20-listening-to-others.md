@@ -13,7 +13,7 @@ The following dialogue is an example of talking to a passive listener:
 
 \- Well, demonstrate your intelligence by showcasing your accomplishments, any projects you've finished, or sharing your opinions or thoughts.
 
-\- *Someone* said something, and *someone* else does did something else.
+\- *Someone* said something, and *someone* else did something else.
 
 \- While you're a great reader and watcher, I'm curious to know **what you've done yourself**.
 
