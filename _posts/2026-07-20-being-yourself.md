@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Doing yourself"
+title:  "Being yourself"
 categories: [coding]
 author: "xeno"
 ---
