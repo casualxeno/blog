@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Listening to Everyone = Achieving Nothing"
+title:  "Doing yourself"
 categories: [coding]
 author: "xeno"
 ---
